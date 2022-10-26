@@ -1,0 +1,9 @@
+{
+    "Simulator Target Bundle": "com.creativecoder.PushNotificationProject",
+    "aps": {
+        "alert": {
+            "body": "Your friends love your content! - Check out what they're saying",
+            "title": "Your latest post"
+        }
+    }
+}
